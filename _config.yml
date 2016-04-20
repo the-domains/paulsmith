@@ -1,0 +1,28 @@
+name: paulsmith
+favicon: null
+layout_spectrum: 0.4340988593176007
+typography_spectrum: 0.014756629709154367
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.15657324064522982
+  lightness: 0.9690034550148994
+  saturation: 0.007415941683575511
+  rhythmicContrast: 0.9729568944312632
+purpose: []
