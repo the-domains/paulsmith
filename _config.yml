@@ -1,20 +1,4 @@
-name: paulsmith
-favicon: null
-layout_spectrum: 0.4340988593176007
 typography_spectrum: 0.014756629709154367
-title: Paul Smith
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9690034550148994
   saturation: 0.007415941683575511
   rhythmicContrast: 0.9729568944312632
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4340988593176007
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: paulsmith
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Paul Smith
+description: music + life
 purpose: []
